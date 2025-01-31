@@ -24,12 +24,14 @@ Here’s a quick demo of the app in action:
 
 2. Navigate to the project directory:
 
-   ```cd todo-list-app```
+   ```
+   cd todo-list-app
+   ```
 
 3. Install the dependencies:
-
+```
    npm install
-
+```
 4. Run the app:
    
    npm run android  # for Android
