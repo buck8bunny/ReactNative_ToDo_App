@@ -29,14 +29,15 @@ Here’s a quick demo of the app in action:
    ```
 
 3. Install the dependencies:
-```
+   ```
    npm install
-```
+   ```
 4. Run the app:
-   
+   ```
    npm run android  # for Android
    npm run ios      # for iOS
+   ```
 
 5. Technologies Used
-   React Native
-   AsyncStorage (for local data storage)
+-  React Native
+-  AsyncStorage (for local data storage)
