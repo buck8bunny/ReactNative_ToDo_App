@@ -19,7 +19,7 @@ Here’s a quick demo of the app in action:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/buck8bunny/todo-list-app.git
+   git clone https://github.com/buck8bunny/ReactNative_ToDo_App.git 
    ```
 
 2. Navigate to the project directory:
