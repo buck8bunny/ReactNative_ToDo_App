@@ -12,7 +12,7 @@ A simple Todo List app that allows you to add and remove tasks. The app stores d
 
 Here’s a quick demo of the app in action:
 
-<img src="demo.gif" alt="App Demo" width="500" />
+<img src="demo.gif" alt="App Demo" width="300" />
 
 ## Installation
 
