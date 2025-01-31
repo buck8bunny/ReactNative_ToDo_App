@@ -18,12 +18,13 @@ Here’s a quick demo of the app in action:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/buck8bunny/todo-list-app.git
+   ```
 
 2. Navigate to the project directory:
 
-   cd todo-list-app
+   ```cd todo-list-app```
 
 3. Install the dependencies:
 
